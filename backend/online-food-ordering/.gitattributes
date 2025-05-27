@@ -1,0 +1,5 @@
+*.java text
+*.xml text
+*.md text
+mvnw text eol=lf
+*.cmd text eol=crlf 
